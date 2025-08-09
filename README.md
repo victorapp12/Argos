@@ -14,6 +14,25 @@ The app lets you register purchases, link them to a card and a person, handle in
 
 ---
 
+## 🌟 Inspiration & Origins
+
+![Argos](https://historiablog.org/wp-content/uploads/2024/01/argos-panoptes.jpeg)
+
+The name **Argos** comes from **Argus Panoptes**, a giant from Greek mythology with one hundred eyes, known for his ability to watch over everything without ever sleeping.
+This perfectly represents the app’s mission: **always keeping an eye on every purchase**, ensuring nothing slips through unnoticed.
+
+**Core inspirations**:
+- **Mythology**: Argos symbolizes vigilance, protection, and oversight — essential qualities for tracking shared finances.
+- **Medieval ledgers**: The concept of keeping detailed records, much like merchants and guilds did centuries ago.
+- **Modern fintech & minimal UI**: Inspired by apps like Airbnb, Nubank, and Notion — clean layouts, rounded cards, blue as the primary color for trust and clarity.
+
+**Visual identity**:
+- **Logo**: A stylized golden eye within a shield — the shield for security, the eye for vigilance.
+- **Colors**: Rich blue background to convey stability, gold accents to represent value and currency.
+- **Typography**: Sans-serif fonts for clarity, with subtle geometric details for a modern yet timeless look.
+
+---
+
 ## ✨ Features
 
 - **Multiple Cards**: Add and manage multiple credit cards.
