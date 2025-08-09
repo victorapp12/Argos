@@ -33,7 +33,7 @@
 		1B69AF722E479D600021D6D2 /* Exceptions for "Argos" folder in "Argos" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				App/Info.plist,
+				Info.plist,
 			);
 			target = 1B69AF4B2E479D5D0021D6D2 /* Argos */;
 		};

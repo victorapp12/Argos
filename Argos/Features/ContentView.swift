@@ -14,11 +14,9 @@ struct ContentView: View {
 
     var body: some View {
         NavigationSplitView {
-            Image("empty-wallet-icon")
-                .renderingMode(.template)
-                .foregroundColor(.black)
             List {
                 ForEach(items) { item in
+                    AppIconKit(.sixDotsFilledOrange).view()
                     NavigationLink {
                         Text("Item at \(item.timestamp, format: Date.FormatStyle(date: .numeric, time: .standard))")
                     } label: {
