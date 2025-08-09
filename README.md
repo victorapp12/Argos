@@ -1,6 +1,6 @@
 # Argos
 
-![Argos Main Icon](Docs/mainIcon.png)
+![Argos Main Icon](./Docs/mainIcon.png)
 
 > **Argos** — iOS app built with SwiftUI + SwiftData using the MVI architecture.  
 > Keep track of shared credit card purchases, split bills between multiple people, and stay on top of your monthly expenses.
@@ -93,8 +93,8 @@ flowchart LR
 flowchart TD
     U[User Action/UI] --> I[Intent]
     I --> R[Reducer (pure)]
-    R -->|Mutable State| S[State]
-    R -->|Async Effects| E[Effect (repo/service)]
+    R --> |Mutable State| S[State]
+    R --> |Async Effects| E[Effect (repo/service)]
     E --> I2[New Intent] --> R
     S --> V[View renders from State]
 ```
@@ -102,10 +102,6 @@ flowchart TD
 ---
 
 ## 🖼 Screenshots (WIP)
-
-| Dashboard | Bill Detail | New Purchase |
-|-----------|-------------|--------------|
-| ![Dashboard Screenshot](docs/screens/dashboard.png) | ![Bill Detail Screenshot](docs/screens/bill_detail.png) | ![New Purchase Screenshot](docs/screens/new_purchase.png) |
 
 > Screenshots will be added once UI implementation is in progress.
 
