@@ -1,15 +1,15 @@
 # Argos
 
-![Argos Main Icon](Docs/mainIcon.png)
+![Argos Main Icon](Docs/mainIcon.png){width=400 height=400}
 
-> **Argos** — iOS app built with SwiftUI + SwiftData using the MVI architecture.  
+> **Argos** — iOS app built with SwiftUI + SwiftData using the MVI architecture.
 > Keep track of shared credit card purchases, split bills between multiple people, and stay on top of your monthly expenses.
 
 ---
 
 ## 📖 Overview
 
-Argos is designed to solve a common problem for couples or groups sharing the same credit card: **knowing who bought what**.  
+Argos is designed to solve a common problem for couples or groups sharing the same credit card: **knowing who bought what**.
 The app lets you register purchases, link them to a card and a person, handle installments, and see monthly summaries per person and per card.
 
 ---
@@ -87,12 +87,10 @@ flowchart TD
 
 ## 📌 Roadmap
 
-- [ ] Core purchase tracking  
-- [ ] Installment allocation per bill  
-- [ ] Filters by person/card/month  
-- [ ] iCloud sharing  
-- [ ] Categories & merchants  
-- [ ] CSV/OFX import  
-- [ ] Widgets  
-
-
+- [ ] Core purchase tracking
+- [ ] Installment allocation per bill
+- [ ] Filters by person/card/month
+- [ ] iCloud sharing
+- [ ] Categories & merchants
+- [ ] CSV/OFX import
+- [ ] Widgets
