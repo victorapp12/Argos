@@ -1,6 +1,6 @@
 # Argos
 
-![Argos Main Icon](docs/mainIcon.png)
+![Argos Main Icon](/Docs/mainIcon.png)
 
 > **Argos** — iOS app built with SwiftUI + SwiftData using the MVI architecture.  
 > Keep track of shared credit card purchases, split bills between multiple people, and stay on top of your monthly expenses.
